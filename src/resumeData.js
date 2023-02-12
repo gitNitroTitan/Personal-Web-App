@@ -1,106 +1,128 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"https://github.com/gitNitroTitan",
+    "name": "Jeremiah King",
+    "role": "Fullstack Web Developer",
+    "linkedinId":" https://www.linkedin.com/in/jeremiahkingmbadev/",
+    "roleDescription": " I enjoy working with back end languages such as Python and .NET, as well as front end technologies like React and Next JS. I feel that I have a solid work ethic, and I believe in working hard to create a solution.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/jeremiahkingmbadev/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/gitNitroTitan?tab=repositories",
           "className":"fa fa-github"
         },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Currently, I am completing a software engineer technical residency and working on a personal project in Python/ Django with a React client. I am an MBA graduate with 21 years of real-world healthcare leadership and technical experience in many situations. ",
+    "address":"Tennessee, USA",
+    "website":"https://github.com/gitNitroTitan",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Nashville Software School",
+        "specialization":"Full Stack Web Development",
+        "MonthOfPassing":"March",
+        "YearOfPassing":"2023",
+        "Achievements":"Completion of Certificate"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
+        "UniversityName":"Western Governors University",
+        "specialization":"Masters in Business Administration",
+        "MonthOfPassing":"July",
+        "YearOfPassing":"2021",
+        "Achievements":"MBA"
+      },
+      {
+        "UniversityName":"University of West Florida",
+        "specialization":"Interdisciplinary Information Technology",
+        "Achievements":"Web Development Certification"
+      },
+      {
+        "UniversityName":"University of South Alabama",
+        "specialization":"Bachelors of Radiologic Sciences",
+        "MonthOfPassing":"July",
+        "YearOfPassing":"2004",
+        "Achievements":"Certifications in Xray, MRI, and CT"
+      },
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "CompanyName":"HCA",
+        "specialization":"Software Engineering Technical Resident",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"",
         "Achievements":"Some Achievements"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Premier Radiology/ Radiology Partners",
+        "specialization":"Cardiac MRI technologist, Clinic supervisor",
+        "MonthOfLeaving":"September",
+        "YearOfLeaving":"2022",
+        "Achievements":"Created a solid program for safer electronic device scanning in an MRI environment"
+      },
+      {
+        "CompanyName":"Vanderbilt Medical Center",
+        "specialization":"Evening Lead MRI technologist",
+        "MonthOfLeaving":"September",
+        "YearOfLeaving":"2014",
+        "Achievements":"Led a shift team of 6 with an anesthesia team to coordinate, screen, sedate, and perform pediatric MRI scans"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Language Exposure",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"React JS"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Next JS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Python"
+      },
+      {
+        "skillname":"Django"
+      },
+      {
+        "skillname":"ASP.NET Core"
+      },
+      {
+        "skillname":"C#"
       }
     ],
-    "portfolio":[
-      {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
+    // "portfolio":[
+    //   {
+    //     "name":"project1",
+    //     "description":"mobileapp",
+    //     "imgurl":"images/portfolio/phone.jpg"
+    //   },
+    //   {
+    //     "name":"project2",
+    //     "description":"mobileapp",
+    //     "imgurl":"images/portfolio/project.jpg"
+    //   },
+    //   {
+    //     "name":"project3",
+    //     "description":"mobileapp",
+    //     "imgurl":"images/portfolio/project2.png"
+    //   },
+    //   {
+    //     "name":"project4",
+    //     "description":"mobileapp",
+    //     "imgurl":"images/portfolio/phone.jpg"
+    //   }
+    // ],
+    // "testimonials":[
+    //   {
+    //     "description":"This is a sample testimonial",
+    //     "name":"Some technical guy"
+    //   },
+    //   {
+    //     "description":"This is a sample testimonial",
+    //     "name":"Some technical guy"
+    //   }
+    // ]
   }
   
   export default resumeData
